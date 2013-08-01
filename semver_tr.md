@@ -52,8 +52,8 @@ Semantik Versiyonlama Tanımı (SemVer)
 
 Bu dökümandaki anahtar kelimeler(“MUST-Yapılmalı-Gereklilik”,
 “MUST NOT-Yapılmamalı-Yasak”, “REQUIRED-Gerekli”, “SHALL-Yapılmalı-Öneri”,
-“SHALL NOT-Yapılmamalı-Öneri”, “SHOULD-Yapılmalı-Tavsiye”,
-“SHOULD NOT-Yapılmamalı-Tavsiye”, “RECOMMENDED-Tavsiye Edilir”, “MAY-Yapılabilir”,
+“SHALL NOT-Yapılmamalı-Öneri”, “SHOULD-Yapılmalı-Öneri”,
+“SHOULD NOT-Yapılmamalı-Öneri”, “RECOMMENDED-Önerilir”, “MAY-Yapılabilir”,
 “OPTIONAL-İsteğe Bağlı”), [RFC 2119](http://tools.ietf.org/html/rfc2119)’da
 belirtildiği gibi yorumlanır.
 
@@ -168,7 +168,7 @@ sonraki her sürüm için artırmaktır.
 
 Eğer yazılımın üretimde kullanılıyorsa, büyük olasılıkla zaten 1.0.0 olmalıdır.
 Eğer kullanıcılardan gelen bir dengeli API varsa, 1.0.0 olmalıdır. Eğer geriye
-doğru uyumluluk hakkında çok şey endişe ediyorsanız, muhtemelen 1.0.0 olmalıdır.
+doğru uyumluluk hakkında çok endişe ediyorsanız, muhtemelen 1.0.0 olmalıdır.
 
 ### Bu hızlı gelişme ve hızlı yineleme yıldırıcı değil mi?
 
